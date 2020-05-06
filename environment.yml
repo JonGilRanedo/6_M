@@ -11,3 +11,12 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - cufflinks
+  - folium
+  - ipywidgets
+  - numpydoc
+  - pandas-datareader
+  - plotly
+  - seaborn
+  - voila
+  - voila-material
